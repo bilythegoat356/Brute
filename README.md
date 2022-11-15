@@ -34,7 +34,7 @@ But it can also down a simple family network.
 
 <br><br>
 * <a href="https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe">Python3</a>
-* `pip install -U -r requirements.txt`
+* `Launch setup.bat`
 <br><br>
 
 -----
